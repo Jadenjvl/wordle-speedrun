@@ -5760,5 +5760,5 @@ export const realDictionary = [
   "rumba",
   "biffy",
   "pupal",
-  "nigga",
+  "lilts",
     ];
