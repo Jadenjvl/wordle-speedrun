@@ -4,6 +4,8 @@ export const realDictionary = [
   "which",
   "there",
   "their",
+  "nigge",
+  "jaden",
   "about",
   "would",
   "these",
