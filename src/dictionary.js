@@ -4,7 +4,7 @@ export const realDictionary = [
   "which",
   "there",
   "their",
-  "nigge",
+  "fucks",
   "jaden",
   "about",
   "would",
